@@ -1,0 +1,1 @@
+This is the repository for the source data, codes and figures associated with the manuscript 'Universal Gene-Level Bimodality in Natural Microbial Communities' by Juken Hong, Wenzhi Xue and Teng Wang.
