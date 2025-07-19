@@ -1,0 +1,3 @@
+American: 1-139
+Danish: 236-636
+Spanish: 763-915, 1062-1267
